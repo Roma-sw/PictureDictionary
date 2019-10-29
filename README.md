@@ -16,3 +16,7 @@ You can memorize English words with images efficiently.
 2.”LOOK UP”ボタンを押してください。  
 3.日本語訳が表示され、ブラウザが起動しグーグル画像検索の結果が表示されます。  
 4."AGAIN”　または　"QUIT"　をクリックしてください。  
+
+
+### PictureDictionary.exe is in 'dist'
+### PictureDictionary.exeファイルは、’dist’フォルダの中にあります。
